@@ -1,0 +1,5 @@
+{
+  "mongodb": {
+    "uri": "mongodb+srv://admin:test123@cluster0.h16sh.mongodb.net/firebase_lab?retryWrites=true&w=majority"
+  }
+}
